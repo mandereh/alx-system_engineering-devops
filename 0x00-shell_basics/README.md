@@ -4,3 +4,4 @@
 7-movethatfile == moving file from one dir to another
 8-firstdelete == deleting a file inside another folder
 8-firstdelete == deleting the file in tmp
+9-firstdirdeletion == deleting the directory
