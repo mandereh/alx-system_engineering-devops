@@ -6,3 +6,4 @@
 8-firstdelete == deleting the file in tmp
 9-firstdirdeletion == deleting the directory
 10-back == changing working directory to previous
+5-listfilesdigitonly === long format in numerical form
