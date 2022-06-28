@@ -9,3 +9,4 @@
 5-listfilesdigitonly === long format in numerical form
 11-lists === listing a sequence of files
 12-file_type == prints the file type 
+13-symbolic_link == creating a symbolic link
