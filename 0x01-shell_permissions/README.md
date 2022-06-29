@@ -5,3 +5,4 @@
 4-empty -> a script that creates an empty file
 5-execute -> a script that adds execute to the files permission
 6-multiple_permissions -> adds various permissions to ower, group and others
+7-everybody -> a script that adds execute to all
