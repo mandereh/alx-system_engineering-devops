@@ -10,3 +10,4 @@
 9-John_Doe -> john doe
 10-mirror_permissions -> setting the permissions of one file to another
 11-directories_permissions -> setting permissions for all dir
+12-directory_permissions -> create a dir and set it a permission
