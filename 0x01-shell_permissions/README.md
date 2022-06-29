@@ -8,3 +8,4 @@
 7-everybody -> a script that adds execute to all
 8-James_Bond -> set all permissions to only others
 9-John_Doe -> john doe
+10-mirror_permissions -> setting the permissions of one file to another
