@@ -3,3 +3,4 @@
 2-groups -> list all groups a user is a part of
 3-new_owner -> a script that changes the owner of the file
 4-empty -> a script that creates an empty file
+5-execute -> a script that adds execute to the files permission
