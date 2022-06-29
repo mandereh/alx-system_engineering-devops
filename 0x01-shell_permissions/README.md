@@ -9,3 +9,4 @@
 8-James_Bond -> set all permissions to only others
 9-John_Doe -> john doe
 10-mirror_permissions -> setting the permissions of one file to another
+11-directories_permissions -> setting permissions for all dir
