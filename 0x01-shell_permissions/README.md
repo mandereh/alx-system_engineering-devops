@@ -6,3 +6,4 @@
 5-execute -> a script that adds execute to the files permission
 6-multiple_permissions -> adds various permissions to ower, group and others
 7-everybody -> a script that adds execute to all
+8-James_Bond -> set all permissions to only others
