@@ -1,3 +1,5 @@
+![Alt text](/0x19-postmortem/problem-with-ap-problem-is-request-api-says500-internal-server-39898405.png "Optional title")
+
 Issue Summary:
 On March 1st, 2023 from 2:30 PM to 3:15 PM WAT, users were unable to access the backend API service, resulting in a 500 error. Approximately 30% of users were impacted during this time. The root cause was identified as a database connection issue.
 
